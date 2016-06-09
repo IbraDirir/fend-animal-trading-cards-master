@@ -1,10 +1,33 @@
 /* add your CSS here */
-span{
-  font-weight: bold;
+
+.Animal-cards{
+border: 2px solid #D3D3D3;
+width: 330px;
+padding: 16px;
+background-color: #E59400;
+
 }
-li{
-  font-style: italic;
+Animal-name{
+margin-bottom: 8px;
 }
 p:first-child{
     font-style: italic;
+}
+li{
+  font-style: italic;
+  list-style: none;
+}
+span{
+  font-weight: bold;
+}
+img{
+    margin-bottom:8px;
+    padding: 8px;
+}
+
+.Animal-information{
+border: 2px solid #D3D3D3;
+width: 300px;
+padding: 8px;
+
 }
