@@ -1,33 +1,32 @@
 /* add your CSS here */
 
-.Animal-cards{
-border: 2px solid #D3D3D3;
-width: 330px;
-padding: 16px;
-background-color: #E59400;
-
+.Animal-cards {
+    border: 2px solid #D3D3D3;
+    width: 330px;
+    padding: 16px;
+    background-color: #E59400;
+    border-radius: 4px;
 }
-Animal-name{
-margin-bottom: 8px;
+Animal-name {
+    margin-bottom: 8px;
 }
-p:first-child{
+p:first-child {
     font-style: italic;
 }
-li{
-  font-style: italic;
-  list-style: none;
+li {
+    font-style: italic;
+    list-style: none;
 }
-span{
-  font-weight: bold;
+span {
+    font-weight: bold;
 }
-img{
-    margin-bottom:8px;
+img {
+    margin-bottom: 8px;
     padding: 8px;
 }
-
-.Animal-information{
-border: 2px solid #D3D3D3;
-width: 300px;
-padding: 8px;
-
+.Animal-information {
+    border: 2px solid #D3D3D3;
+    border-radius: 5%;
+    width: 300px;
+    padding: 8px;
 }
