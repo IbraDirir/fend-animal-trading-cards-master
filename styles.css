@@ -1,1 +1,7 @@
 /* add your CSS here */
+span{
+  font-weight: bold;
+}
+li{
+  font-style: italic;
+}
