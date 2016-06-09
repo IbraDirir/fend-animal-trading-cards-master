@@ -2,13 +2,13 @@
 
 .Animal-cards {
     border: 2px solid #D3D3D3;
-    width: 330px;
-    padding: 16px;
+    width: 320px;
+    padding: 10px;
     background-color: #E59400;
     border-radius: 4px;
 }
 Animal-name {
-    margin-bottom: 8px;
+    padding: 8px;
 }
 p:first-child {
     font-style: italic;
@@ -21,12 +21,12 @@ span {
     font-weight: bold;
 }
 img {
-    margin-bottom: 8px;
-    padding: 8px;
+    width: 300px;
+    padding: 4px;
 }
 .Animal-information {
     border: 2px solid #D3D3D3;
     border-radius: 5%;
     width: 300px;
-    padding: 8px;
+    padding: 4px;
 }
